@@ -1,18 +1,14 @@
 ﻿
-using System;
 
 namespace ClassBasics
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("hello world");
+            System.Console.WriteLine("hello .netetch");
         }
     }
 
-    public class Class1 { 
-    }
 
 }

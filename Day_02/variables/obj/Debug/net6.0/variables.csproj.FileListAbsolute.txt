@@ -1,0 +1,15 @@
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_02\variables\bin\Debug\net6.0\variables.exe
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_02\variables\bin\Debug\net6.0\variables.deps.json
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_02\variables\bin\Debug\net6.0\variables.runtimeconfig.json
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_02\variables\bin\Debug\net6.0\variables.dll
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_02\variables\bin\Debug\net6.0\variables.pdb
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_02\variables\obj\Debug\net6.0\variables.csproj.AssemblyReference.cache
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_02\variables\obj\Debug\net6.0\variables.GeneratedMSBuildEditorConfig.editorconfig
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_02\variables\obj\Debug\net6.0\variables.AssemblyInfoInputs.cache
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_02\variables\obj\Debug\net6.0\variables.AssemblyInfo.cs
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_02\variables\obj\Debug\net6.0\variables.csproj.CoreCompileInputs.cache
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_02\variables\obj\Debug\net6.0\variables.dll
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_02\variables\obj\Debug\net6.0\refint\variables.dll
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_02\variables\obj\Debug\net6.0\variables.pdb
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_02\variables\obj\Debug\net6.0\variables.genruntimeconfig.cache
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_02\variables\obj\Debug\net6.0\ref\variables.dll
