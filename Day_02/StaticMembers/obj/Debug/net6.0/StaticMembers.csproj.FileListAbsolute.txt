@@ -1,0 +1,15 @@
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_02\StaticMambers\bin\Debug\net6.0\StaticMembers.exe
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_02\StaticMambers\bin\Debug\net6.0\StaticMembers.deps.json
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_02\StaticMambers\bin\Debug\net6.0\StaticMembers.runtimeconfig.json
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_02\StaticMambers\bin\Debug\net6.0\StaticMembers.dll
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_02\StaticMambers\bin\Debug\net6.0\StaticMembers.pdb
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_02\StaticMambers\obj\Debug\net6.0\StaticMembers.csproj.AssemblyReference.cache
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_02\StaticMambers\obj\Debug\net6.0\StaticMembers.GeneratedMSBuildEditorConfig.editorconfig
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_02\StaticMambers\obj\Debug\net6.0\StaticMembers.AssemblyInfoInputs.cache
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_02\StaticMambers\obj\Debug\net6.0\StaticMembers.AssemblyInfo.cs
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_02\StaticMambers\obj\Debug\net6.0\StaticMembers.csproj.CoreCompileInputs.cache
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_02\StaticMambers\obj\Debug\net6.0\StaticMembers.dll
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_02\StaticMambers\obj\Debug\net6.0\refint\StaticMembers.dll
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_02\StaticMambers\obj\Debug\net6.0\StaticMembers.pdb
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_02\StaticMambers\obj\Debug\net6.0\StaticMembers.genruntimeconfig.cache
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_02\StaticMambers\obj\Debug\net6.0\ref\StaticMembers.dll
