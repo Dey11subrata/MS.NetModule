@@ -34,10 +34,14 @@ namespace Assignment1
             // "   "
             set 
             {
-                if (value != " " )
+                if (value != "" )
                     name = value;
                 else
+                {
                     Console.WriteLine("name should not be blank");
+                    name = "Unnamed Employee";
+
+                }
             }
             get { return name; }
         }
@@ -77,7 +81,7 @@ namespace Assignment1
         {
             
         }*/
-        public Employee(int EmpNo=0, string Name="not given", decimal Basic=40000, short DeptNo=0)
+        public Employee(int EmpNo=0, string Name="", decimal Basic=40000, short DeptNo=0)
         {
             this.Name = Name;
            this.EmpNo = EmpNo;
