@@ -1,0 +1,5 @@
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_04\Assignment3\obj\Debug\net6.0\Assignment3.csproj.AssemblyReference.cache
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_04\Assignment3\obj\Debug\net6.0\Assignment3.GeneratedMSBuildEditorConfig.editorconfig
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_04\Assignment3\obj\Debug\net6.0\Assignment3.AssemblyInfoInputs.cache
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_04\Assignment3\obj\Debug\net6.0\Assignment3.AssemblyInfo.cs
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_04\Assignment3\obj\Debug\net6.0\Assignment3.csproj.CoreCompileInputs.cache
