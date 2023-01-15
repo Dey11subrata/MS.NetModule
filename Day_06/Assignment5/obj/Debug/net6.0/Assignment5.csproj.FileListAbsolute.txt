@@ -1,0 +1,15 @@
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_06\Assignment5\bin\Debug\net6.0\Assignment5.exe
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_06\Assignment5\bin\Debug\net6.0\Assignment5.deps.json
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_06\Assignment5\bin\Debug\net6.0\Assignment5.runtimeconfig.json
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_06\Assignment5\bin\Debug\net6.0\Assignment5.dll
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_06\Assignment5\bin\Debug\net6.0\Assignment5.pdb
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_06\Assignment5\obj\Debug\net6.0\Assignment5.csproj.AssemblyReference.cache
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_06\Assignment5\obj\Debug\net6.0\Assignment5.GeneratedMSBuildEditorConfig.editorconfig
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_06\Assignment5\obj\Debug\net6.0\Assignment5.AssemblyInfoInputs.cache
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_06\Assignment5\obj\Debug\net6.0\Assignment5.AssemblyInfo.cs
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_06\Assignment5\obj\Debug\net6.0\Assignment5.csproj.CoreCompileInputs.cache
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_06\Assignment5\obj\Debug\net6.0\Assignment5.dll
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_06\Assignment5\obj\Debug\net6.0\refint\Assignment5.dll
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_06\Assignment5\obj\Debug\net6.0\Assignment5.pdb
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_06\Assignment5\obj\Debug\net6.0\Assignment5.genruntimeconfig.cache
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_06\Assignment5\obj\Debug\net6.0\ref\Assignment5.dll

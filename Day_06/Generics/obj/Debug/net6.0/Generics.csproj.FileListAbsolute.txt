@@ -1,0 +1,15 @@
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_06\Generics\bin\Debug\net6.0\Generics.exe
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_06\Generics\bin\Debug\net6.0\Generics.deps.json
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_06\Generics\bin\Debug\net6.0\Generics.runtimeconfig.json
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_06\Generics\bin\Debug\net6.0\Generics.dll
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_06\Generics\bin\Debug\net6.0\Generics.pdb
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_06\Generics\obj\Debug\net6.0\Generics.csproj.AssemblyReference.cache
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_06\Generics\obj\Debug\net6.0\Generics.GeneratedMSBuildEditorConfig.editorconfig
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_06\Generics\obj\Debug\net6.0\Generics.AssemblyInfoInputs.cache
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_06\Generics\obj\Debug\net6.0\Generics.AssemblyInfo.cs
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_06\Generics\obj\Debug\net6.0\Generics.csproj.CoreCompileInputs.cache
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_06\Generics\obj\Debug\net6.0\Generics.dll
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_06\Generics\obj\Debug\net6.0\refint\Generics.dll
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_06\Generics\obj\Debug\net6.0\Generics.pdb
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_06\Generics\obj\Debug\net6.0\Generics.genruntimeconfig.cache
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_06\Generics\obj\Debug\net6.0\ref\Generics.dll
