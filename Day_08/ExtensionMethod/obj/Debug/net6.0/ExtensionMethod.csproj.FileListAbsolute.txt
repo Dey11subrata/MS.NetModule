@@ -1,0 +1,15 @@
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_08\ExtensionMethod\bin\Debug\net6.0\ExtensionMethod.exe
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_08\ExtensionMethod\bin\Debug\net6.0\ExtensionMethod.deps.json
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_08\ExtensionMethod\bin\Debug\net6.0\ExtensionMethod.runtimeconfig.json
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_08\ExtensionMethod\bin\Debug\net6.0\ExtensionMethod.dll
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_08\ExtensionMethod\bin\Debug\net6.0\ExtensionMethod.pdb
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_08\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.csproj.AssemblyReference.cache
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_08\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_08\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.AssemblyInfoInputs.cache
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_08\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.AssemblyInfo.cs
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_08\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.csproj.CoreCompileInputs.cache
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_08\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.dll
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_08\ExtensionMethod\obj\Debug\net6.0\refint\ExtensionMethod.dll
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_08\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.pdb
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_08\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.genruntimeconfig.cache
+E:\PG-DAC\00.Group_HiddenLink\06.DotNet\Day_08\ExtensionMethod\obj\Debug\net6.0\ref\ExtensionMethod.dll
