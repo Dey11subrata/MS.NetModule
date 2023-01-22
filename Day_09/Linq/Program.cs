@@ -260,7 +260,7 @@ namespace Linq2
                 Console.WriteLine(empno);
             }
             Console.WriteLine("using anonymous function and lambda");
-        }
+        }  
 
         public static void Main3()
         {
@@ -289,7 +289,7 @@ namespace Linq2
 
         }
 
-        public static void Main()
+        public static void Main4()
         {
 
             static bool IsSalaryGreaterThan11000(Employee obj)
@@ -333,7 +333,11 @@ namespace Linq2
         {
             AddRec();
 
-            var res = from emp in employeeList orderby emp.Name descending select emp;
+            //var res = from emp in employeeList orderby emp.Name descending select emp;
+
+            // using lambda
+
+            var res = employeeList.OrderBy(emp => emp.Salary);
 
             foreach (var emp in res)
             {
@@ -342,7 +346,10 @@ namespace Linq2
 
             Console.WriteLine("-------------------");
 
-            var res2 = from emp in employeeList orderby emp.DeptNo descending, emp.Name ascending select emp;
+            //var res2 = from emp in employeeList orderby emp.DeptNo descending, emp.Name ascending select emp;
+
+            var res2 = employeeList.OrderBy(emp=>emp.Salary).ThenBy(emp=>emp.Name);
+            // if second statement is also entered by using order by then the new llist will be filtered on the basis of the results received from the just preceeding list. to avoid this issue use of "ThenBy"
 
             foreach (var emp in res2)
             {
@@ -351,21 +358,22 @@ namespace Linq2
 
         }
 
-        public static void Main6()
+        public static void Main()
         {
             AddRec();
 
             //05. join tables 
 
-            var res1 = from emp in employeeList
+            /*var res1 = from emp in employeeList
                        join dept in departmentList
                        on emp.DeptNo equals dept.DeptNo
                        // select emp; // due to this all te records availble to usid of employee only.
-                       select dept; // due to this all te records availble to usid of dept only.
+                       select dept; // due to this all te records availble to usid of dept only.*/
+            var res1 = employeeList.Join(employeeList, emp => emp.DeptNo, dept => dept.DeptNo, (emp, dept) => emp);
             foreach (var emp in res1)
             {
-                //Console.WriteLine(emp.Name);
-                Console.WriteLine(emp.DeptName);
+                Console.WriteLine(emp);
+                //Console.WriteLine(emp.DeptName);
             }
             Console.WriteLine("-----------------------");
 
