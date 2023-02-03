@@ -1,0 +1,59 @@
+﻿@model IEnumerable<StudentProgManagment.Models.StudentsViewModel>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Project Status</h1>
+
+@*<p>
+    <a asp-action="Create">Create New</a>
+</p>*@
+@foreach (var item in City.getAllCityDetails()) {
+    <h2>       
+        @Html.DisplayName(item.CityName)    
+    </h2>
+    <table class="table">
+        <thead>
+        <tr> 
+            <th> 
+                @Html.DisplayNameFor(model => model.StudentId)  
+            </th>
+            <th> 
+                @Html.DisplayNameFor(model => model.FullName)  
+            </th>
+            <th>                     
+                @Html.DisplayNameFor(model => model.Gender)   
+            </th>
+            <th>    
+                @Html.DisplayNameFor(model => model.EmailId)        
+            </th>
+            <th>                  
+                @Html.DisplayNameFor(model => model.Phone)     
+            </th>
+        </tr>
+         </thead>       
+     <tbody>
+            @foreach (var Student in StudentsViewModel.GetAllStudentByCityId(item.CityId))
+           {       
+                <tr>
+                    <td>  
+                        @Student.StudentId  
+                    </td>
+                    <td>                
+                        @Student.FullName            
+                    </td>
+                    <td>                    
+                        @Student.Gender            
+                    </td>
+                    <td>         
+                        @Student.EmailId   
+                    </td>
+                    <td>                
+                        @Student.Phone   
+                    </td>
+                </tr>
+        }
+      </tbody>
+   </table>
+}
